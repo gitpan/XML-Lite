@@ -1,0 +1,10 @@
+Changes
+Lite.pm
+Lite/Element.pm
+Makefile.PL
+MANIFEST
+t/constructor.t
+t/lite.t
+t/element.t
+po.xml
+README
